@@ -9,9 +9,9 @@
 | Dataset ID | `932612` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 4 records (8.0%) |
-| Last export | 2026-04-07T17:45:29.368066+00:00 |
+| Full dataset size | 49 records |
+| Free sample size | 4 records (8.16%) |
+| Last export | 2026-04-14T23:13:39.197478+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-new-hampshire-us-sample-932612/releases/download/sample-latest/beamstation_932612_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
