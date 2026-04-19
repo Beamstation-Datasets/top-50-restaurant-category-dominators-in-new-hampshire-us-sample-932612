@@ -1,12 +1,12 @@
 {
-  "export_job_id": "aaf22445-c438-41d6-8a91-315be1cc3f5b",
+  "export_job_id": "25dc6bac-6f6e-42f2-b1d5-d7c74d5dffdd",
   "id_short": 932612,
-  "published_at": "2026-04-15T19:36:14Z",
+  "published_at": "2026-04-19T07:04:03Z",
   "repo_name": "top-50-restaurant-category-dominators-in-new-hampshire-us-sample-932612",
   "sample_asset_name": "beamstation_932612_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/932612/beamstation_932612_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_records": 4,
   "sample_sha256": "636fdbf8ec166c4fdbb572b9e66996ce1f9884fe7db3b9f964a3179d6efbb6b0",
   "sample_size_bytes": 32188,
-  "total_records": 50
+  "total_records": 49
 }
