@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in New Hampshire, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `932612` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 55 records |
-| Free sample size | 5 records (9.09%) |
-| Last export | 2026-04-22T02:48:15.389775+00:00 |
+| Full dataset size | 48 records |
+| Free sample size | 4 records (8.33%) |
+| Last export | 2026-04-29T05:43:25.857124+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-new-hampshire-us-sample-932612/releases/download/sample-latest/beamstation_932612_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
